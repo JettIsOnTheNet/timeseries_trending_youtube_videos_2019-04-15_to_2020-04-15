@@ -10,6 +10,6 @@ Data provided in this dataset is:
 
 ytvideoid (the id of the video according to Youtube), views, comments, likes, dislikes (This is prior to the removal of dislikes as publicly viewable data)
 
-This dataset is also available on huggingface: 
+This dataset is directly available on huggingface: 
 
 https://huggingface.co/datasets/jettisonthenet/timeseries_trending_youtube_videos_2019-04-15_to_2020-04-15
